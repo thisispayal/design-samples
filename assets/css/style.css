@@ -57,6 +57,10 @@ a img {
   border: 0;
   outline: 0; }
 
+img:hover{
+	background-color: rgb(245,170,105);
+}
+
 h1 {
   font-size: 3em;
   line-height: 1;
@@ -98,4 +102,8 @@ h3 {
 .description{
 	font-weight: 300;
 	font-size: 1em;
+}
+
+.sustainability-samples{
+	text-align:center;
 }
